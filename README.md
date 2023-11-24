@@ -31,65 +31,69 @@ cd [forked-repo]
 
 ## Screenshots
 **Homepage**
-
 ![Home1](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/0c21bbfd-545a-48dd-b2ff-2d50a7635352)
-![Home2](Screenshots/Home2.PNG)
-![Home3](Screenshots/Home3.PNG)
-![Home4](Screenshots/Home4.PNG)
-![Home5](Screenshots/Home5.PNG)
-![Home6](Screenshots/Home6.PNG)
-![Home7](Screenshots/Home7.PNG)
+![Home2](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/6d978e65-78dd-4126-82f3-16cf227f916d)
+![Home3](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/1639c303-f8d3-4ea5-9347-0b8b2e80dc5d)
+![Home4](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/982e8929-e827-4f6f-987d-ba7fbd6fe746)
+![Home5](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/7fcf9399-eefc-4962-a578-efd5563921a9)
+![Home6](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/844777fd-097f-4c48-a95a-287e4f597c91)
+![Home7](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/2999b367-8471-475d-b8c8-fb8b36fa52e1)
+
 
 Introduces user to Computer Science Department
 
 **About**
-![About1](Screenshots/About1.PNG)
-![About2](Screenshots/About2.PNG)
-![About3](Screenshots/About3.PNG)
-![About4](Screenshots/About4.PNG)
-![About5](Screenshots/About5.PNG)
+![About1](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/df999c2b-34eb-4392-a250-3ed74b7ec3d4)
+![About2](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/21855a5d-2cfa-4117-a586-89448d14715f)
+![About3](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/0a83ce10-08c4-411f-8725-551f66399af0)
+![About4](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/b1ceb320-3613-4331-be4e-094398a1ddaa)
+![About5](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/9c78321e-e9c9-4f19-b401-55b488efb6c2)
+
 
 **Contact Us**
-![ContactUs](Screenshots/ContactUs1.PNG)
-![ContactUs](Screenshots/ContactUs2.PNG)
+![ContactUs1](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/050e6389-2b36-4225-b863-b10b8479d967)
+![ContactUs2](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/d4bd99b6-a572-405e-9867-dcbd1dde78ea)
 
 **Academics**
-![Academics1](Screenshots/Academics1.PNG)
-![Academics2](Screenshots/Academics2.PNG)
+![Academics1](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/290ede96-631c-404b-bb2e-848b565940a0)
+![Academics2](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/35fd2789-9d6e-4a81-a3dd-cb2e17577894)
+
 
 **Research**
 Provides information about the research activities of the Computer Science Department
-![Research Image 1](Screenshots/Research1.PNG)
-![Research Image 2](Screenshots/Research2.PNG)
-![Research Image 3](Screenshots/Research3.PNG)
+![Research1](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/1e125a54-a597-4719-b957-6fa92a27969b)
+![Research2](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/9627ce87-eab3-4763-a505-16b565c4808b)
+![Research3](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/087159b4-d436-460e-87f1-5852979c600a)
+
 
 **Faculty**
 Introduces the esteemed faculty members of the Department of Computer Science.
-![Faculty Image 1](Screenshots/Faculty1.PNG)
-![Faculty Image 2](Screenshots/Faculty2.PNG)
-![Faculty Image 3](Screenshots/Faculty3.PNG)
+![Faculty1](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/0a5ac680-e344-46e5-8dc3-e7ee570adc9f)
+![Faculty2](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/a2948652-c0ab-4539-95b1-7e0aebfaa8ab)
+![Faculty3](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/3c1e5712-07fa-4c6b-ba1e-1f254ca4e885)
+
 
 **Admission**
 Provides information about admission procedures, programs offered, and any other relevant details.
-![Admission Image 1](Screenshots/Admissions1.PNG)
-![Admission Image 2](Screenshots/Admissions2.PNG)
-![Admission Image 3](Screenshots/Admissions3.PNG)
+![Admissions1](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/dd67a31c-de95-472a-9834-1383a0097b3a)
+![Admissions2](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/b269e26c-6cba-440e-b003-b78d5e67077b)
+![Admissions3](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/aeab3efe-edf2-4b93-a333-e032eb99c262)
+
 
 **Events**
 Keeps the community informed about upcoming departmental events, conferences, and seminars.
-![Events Image 1](Screenshots/Events1.PNG)
-![Events Image 2](Screenshots/Events2.PNG)
-![Events Image 3](Screenshots/Events3.PNG)
-![Events Image 4](Screenshots/Events4.PNG)
-![Events Image 5](Screenshots/Events5.PNG)
-![Events Image 6](Screenshots/Events6.PNG)
-![Events Image 7](Screenshots/Events7.PNG)
+![Events1](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/782d7aab-ba2e-481e-bc1c-a3e0d9ae905c)
+![Events2](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/81625c62-421c-41c1-981c-49655a0916e8)
+![Events3](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/3f59a1cf-88c3-4b89-8183-e827223a51a0)
+![Events4](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/4176ef0a-d244-4fa3-8ad2-69fa82c5d1d5)
+![Events5](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/cdcc2d4d-8817-4c11-9f81-d5e7889b8ff0)
+![Events6](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/eadd25c1-f3fc-42ec-937f-09f3d10ddc56)
+![Events7](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/6a60029f-b525-43e3-beca-99c828a18acb)
 
 **COMPSSA**
 Highlights the activities of the Computer Science Student Association.
-![COMPSSA Image 1](Screenshots/COMPSSA1.PNG)
-![COMPSSA Image 2](Screenshots/COMPSSA2.PNG)
-
+![COMPSSA1](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/be403037-2757-4a84-b885-facf964f1491)
+![COMPSSA2](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/ee59cf70-17f2-4f12-81e0-2c712930bb38)
 
 ## Project Reflection:
 During the development of this website, I gained insights into effective web design, database management, and collaborative project development. Overcoming challenges such as styling, working with divs and flexboxes strengthened my problem-solving skills. Looking ahead, I plan to enhance the website by introducing new features to make it more interactive.
