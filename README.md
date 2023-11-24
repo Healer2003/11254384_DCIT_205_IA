@@ -31,7 +31,8 @@ cd [forked-repo]
 
 ## Screenshots
 **Homepage**
-![Home1](Screenshots/Home1.PNG)
+
+![Home1](https://github.com/Healer2003/11254384_DCIT_205_IA/assets/151882972/0c21bbfd-545a-48dd-b2ff-2d50a7635352)
 ![Home2](Screenshots/Home2.PNG)
 ![Home3](Screenshots/Home3.PNG)
 ![Home4](Screenshots/Home4.PNG)
